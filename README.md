@@ -1,5 +1,5 @@
 # Basic Python for Geoscientist Workshop
-Repository for One-day Workshop at Universitas Trisakti (Second Session)
+## Repository for One-day Workshop at Program Studi Teknik Geologi Universitas Trisakti (Second Session)
 - Matplotlib
 - Classification (Facies Prediction using well log data)
 - Regression (Vp Prediction using well log data)
