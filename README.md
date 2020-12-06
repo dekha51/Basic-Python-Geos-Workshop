@@ -8,4 +8,4 @@ Notes: The well data files used in the notebook are already given at the worksho
 
 Kindly click here for the repository of the First Session Workshop
 
-![alt text](http://dekha51/Basic-Python-Geos-Workshop/poster.jpg)
+![alt text](https://github.com/dekha51/Basic-Python-Geos-Workshop/images/poster.jpg)
