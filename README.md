@@ -6,6 +6,7 @@ Repository for One-day Workshop at Universitas Trisakti (Second Session)
 
 Notes: The well data files used in the notebook are already given at the workshop
 
-Kindly click here for the repository of the First Session Workshop
+Below is the link for the First Session Workshop repository:
+https://github.com/panjoel4/Basic-Python-Workshop
 
 ![](images/poster.jpeg)
