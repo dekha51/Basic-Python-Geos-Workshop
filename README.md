@@ -1,4 +1,4 @@
-# Basic-Python-Geos-Workshop
+# Basic Python for Geoscientist Workshop
 Repository for One-day Workshop at Universitas Trisakti (Second Session)
 - Matplotlib
 - Classification (Facies Prediction using well log data)
